@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cuGB8XDw0gEgMkxmY2AMFEJwtGjDVpiz7NAd91tzbac=",
+  "Source": "DynamicAuthSystem.API",
+  "BasePath": "_content/DynamicAuthSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

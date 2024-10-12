@@ -1,0 +1,708 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\DynamicAuthSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commandhandler\\module\\deletemodulecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commandhandler\\module\\deletemodulecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commandhandler\\module\\updatemodulecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commandhandler\\module\\updatemodulecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commands\\modules\\updatemodulecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commands\\modules\\updatemodulecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commands\\actions\\updateactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commands\\actions\\updateactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.api\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|solutionrelative:dynamicauthsystem.api\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commandhandler\\module\\createmodulecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commandhandler\\module\\createmodulecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commandhandler\\createrolepermissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commandhandler\\createrolepermissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commands\\createrolepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commands\\createrolepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F869BA2-A078-4120-AC35-2F6D85FC0D5D}|DynamicAuthSystem.Infrastructure\\DynamicAuthSystem.Infrastructure.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F869BA2-A078-4120-AC35-2F6D85FC0D5D}|DynamicAuthSystem.Infrastructure\\DynamicAuthSystem.Infrastructure.csproj|solutionrelative:dynamicauthsystem.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F869BA2-A078-4120-AC35-2F6D85FC0D5D}|DynamicAuthSystem.Infrastructure\\DynamicAuthSystem.Infrastructure.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F869BA2-A078-4120-AC35-2F6D85FC0D5D}|DynamicAuthSystem.Infrastructure\\DynamicAuthSystem.Infrastructure.csproj|solutionrelative:dynamicauthsystem.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commands\\modules\\createmodulecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commands\\modules\\createmodulecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\queries\\rolepermissions\\getallrolepermissionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\queries\\rolepermissions\\getallrolepermissionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\queries\\actions\\getallactionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\queries\\actions\\getallactionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\queries\\rolepermissions\\getrolepermissionbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\queries\\rolepermissions\\getrolepermissionbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\queries\\actions\\getactionbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\queries\\actions\\getactionbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commands\\rolepermissions\\deleterolepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commands\\rolepermissions\\deleterolepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commands\\rolepermissions\\updaterolepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commands\\rolepermissions\\updaterolepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commands\\rolepermissions\\createrolepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commands\\rolepermissions\\createrolepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commands\\actions\\deleteactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commands\\actions\\deleteactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commands\\actions\\createactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commands\\actions\\createactioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|solutionrelative:dynamicauthsystem.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.domain\\interfaces\\irolepermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|solutionrelative:dynamicauthsystem.domain\\interfaces\\irolepermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|solutionrelative:dynamicauthsystem.domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.domain\\interfaces\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|solutionrelative:dynamicauthsystem.domain\\interfaces\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|solutionrelative:dynamicauthsystem.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.domain\\entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|solutionrelative:dynamicauthsystem.domain\\entities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.domain\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|solutionrelative:dynamicauthsystem.domain\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.domain\\entities\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B27A0E7-B4B3-4248-BF6C-19B90E66FD6D}|DynamicAuthSystem.Domain\\DynamicAuthSystem.Domain.csproj|solutionrelative:dynamicauthsystem.domain\\entities\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.api\\controllers\\rolepermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|solutionrelative:dynamicauthsystem.api\\controllers\\rolepermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|solutionrelative:dynamicauthsystem.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commandhandler\\enabletwofactorauthcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commandhandler\\enabletwofactorauthcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commands\\enabletwofactorauthcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commands\\enabletwofactorauthcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commandhandler\\confirmemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commandhandler\\confirmemailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commandhandler\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commandhandler\\registerusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commands\\confirmemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commands\\confirmemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.application\\commandhandler\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293C0002-DB01-4016-B138-637F8F707974}|DynamicAuthSystem.Application\\DynamicAuthSystem.Application.csproj|solutionrelative:dynamicauthsystem.application\\commandhandler\\loginusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|solutionrelative:dynamicauthsystem.api\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.api\\extensions\\assemblyutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|solutionrelative:dynamicauthsystem.api\\extensions\\assemblyutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|solutionrelative:dynamicauthsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|e:\\projects\\dynamicauthsystem\\dynamicauthsystem.api\\extensions\\mediatrregistrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00BA0EE-3315-4DE1-AC00-457F7C56AFAF}|DynamicAuthSystem.API\\DynamicAuthSystem.API.csproj|solutionrelative:dynamicauthsystem.api\\extensions\\mediatrregistrationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteModuleCommandHandler.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\Module\\DeleteModuleCommandHandler.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\CommandHandler\\Module\\DeleteModuleCommandHandler.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\Module\\DeleteModuleCommandHandler.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\CommandHandler\\Module\\DeleteModuleCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:45:17.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateModuleCommandHandler.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\Module\\UpdateModuleCommandHandler.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\CommandHandler\\Module\\UpdateModuleCommandHandler.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\Module\\UpdateModuleCommandHandler.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\CommandHandler\\Module\\UpdateModuleCommandHandler.cs",
+              "ViewState": "AQIAABoAAABA//////8XwCAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:38:38.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateModuleCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\Modules\\UpdateModuleCommand.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Commands\\Modules\\UpdateModuleCommand.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\Modules\\UpdateModuleCommand.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Commands\\Modules\\UpdateModuleCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T13:38:13.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Controllers\\ModuleController.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.API\\Controllers\\ModuleController.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Controllers\\ModuleController.cs",
+              "RelativeToolTip": "DynamicAuthSystem.API\\Controllers\\ModuleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:43:56.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateRolePermissionHandler.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\CreateRolePermissionHandler.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\CommandHandler\\CreateRolePermissionHandler.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\CreateRolePermissionHandler.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\CommandHandler\\CreateRolePermissionHandler.cs",
+              "ViewState": "AQIAAAcAAACALTMzMzMLwBkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:23:54.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateModuleCommandHandler.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\Module\\CreateModuleCommandHandler.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\CommandHandler\\Module\\CreateModuleCommandHandler.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\Module\\CreateModuleCommandHandler.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\CommandHandler\\Module\\CreateModuleCommandHandler.cs",
+              "ViewState": "AQIAAAYAAACgzMzMzMwnwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:17:38.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateActionCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\Actions\\UpdateActionCommand.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Commands\\Actions\\UpdateActionCommand.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\Actions\\UpdateActionCommand.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Commands\\Actions\\UpdateActionCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:06:44.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateRolePermissionCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\CreateRolePermissionCommand.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Commands\\CreateRolePermissionCommand.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\CreateRolePermissionCommand.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Commands\\CreateRolePermissionCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:23:39.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABAAAAAgmZmZmZklwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:21:34.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAABEAAACwZGZmZuYxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:21:07.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllRolePermissionsQuery.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Queries\\RolePermissions\\GetAllRolePermissionsQuery.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Queries\\RolePermissions\\GetAllRolePermissionsQuery.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Queries\\RolePermissions\\GetAllRolePermissionsQuery.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Queries\\RolePermissions\\GetAllRolePermissionsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:13:34.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateModuleCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\Modules\\CreateModuleCommand.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Commands\\Modules\\CreateModuleCommand.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\Modules\\CreateModuleCommand.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Commands\\Modules\\CreateModuleCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:03:50.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetRolePermissionByIdQuery.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Queries\\RolePermissions\\GetRolePermissionByIdQuery.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Queries\\RolePermissions\\GetRolePermissionByIdQuery.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Queries\\RolePermissions\\GetRolePermissionByIdQuery.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Queries\\RolePermissions\\GetRolePermissionByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:13:02.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllActionsQuery.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Queries\\Actions\\GetAllActionsQuery.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Queries\\Actions\\GetAllActionsQuery.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Queries\\Actions\\GetAllActionsQuery.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Queries\\Actions\\GetAllActionsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:10:44.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetActionByIdQuery.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Queries\\Actions\\GetActionByIdQuery.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Queries\\Actions\\GetActionByIdQuery.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Queries\\Actions\\GetActionByIdQuery.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Queries\\Actions\\GetActionByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:10:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeleteRolePermissionCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\RolePermissions\\DeleteRolePermissionCommand.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Commands\\RolePermissions\\DeleteRolePermissionCommand.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\RolePermissions\\DeleteRolePermissionCommand.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Commands\\RolePermissions\\DeleteRolePermissionCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:08:57.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateRolePermissionCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\RolePermissions\\UpdateRolePermissionCommand.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Commands\\RolePermissions\\UpdateRolePermissionCommand.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\RolePermissions\\UpdateRolePermissionCommand.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Commands\\RolePermissions\\UpdateRolePermissionCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:08:41.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateRolePermissionCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\RolePermissions\\CreateRolePermissionCommand.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Commands\\RolePermissions\\CreateRolePermissionCommand.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\RolePermissions\\CreateRolePermissionCommand.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Commands\\RolePermissions\\CreateRolePermissionCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:08:06.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteActionCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\Actions\\DeleteActionCommand.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Commands\\Actions\\DeleteActionCommand.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\Actions\\DeleteActionCommand.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Commands\\Actions\\DeleteActionCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:07:09.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateActionCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\Actions\\CreateActionCommand.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Commands\\Actions\\CreateActionCommand.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\Actions\\CreateActionCommand.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Commands\\Actions\\CreateActionCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:06:17.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:54:37.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Domain\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Domain\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:54:12.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRolePermissionService.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Interfaces\\IRolePermissionService.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Domain\\Interfaces\\IRolePermissionService.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Interfaces\\IRolePermissionService.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Domain\\Interfaces\\IRolePermissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:54:04.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IModuleRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Interfaces\\IModuleRepository.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Domain\\Interfaces\\IModuleRepository.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Interfaces\\IModuleRepository.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Domain\\Interfaces\\IModuleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:53:18.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:47:51.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Entities\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Domain\\Entities\\ApplicationRole.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Entities\\ApplicationRole.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Domain\\Entities\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:47:45.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Entities\\RolePermission.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Domain\\Entities\\RolePermission.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Entities\\RolePermission.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Domain\\Entities\\RolePermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:47:03.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Actions.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Entities\\Actions.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Domain\\Entities\\Actions.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Domain\\Entities\\Actions.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Domain\\Entities\\Actions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:43:05.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RolePermissionController.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Controllers\\RolePermissionController.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.API\\Controllers\\RolePermissionController.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Controllers\\RolePermissionController.cs",
+              "RelativeToolTip": "DynamicAuthSystem.API\\Controllers\\RolePermissionController.cs",
+              "ViewState": "AQIAABMAAADA/v////8owCEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:41:14.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EnableTwoFactorAuthCommandHandler.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\EnableTwoFactorAuthCommandHandler.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\CommandHandler\\EnableTwoFactorAuthCommandHandler.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\EnableTwoFactorAuthCommandHandler.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\CommandHandler\\EnableTwoFactorAuthCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:39:09.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EnableTwoFactorAuthCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\EnableTwoFactorAuthCommand.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Commands\\EnableTwoFactorAuthCommand.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\EnableTwoFactorAuthCommand.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Commands\\EnableTwoFactorAuthCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:38:17.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.API\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DynamicAuthSystem.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADgAAAAwMjMzM7M8wEMAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T22:27:24.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ConfirmEmailCommandHandler.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\ConfirmEmailCommandHandler.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\CommandHandler\\ConfirmEmailCommandHandler.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\ConfirmEmailCommandHandler.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\CommandHandler\\ConfirmEmailCommandHandler.cs",
+              "ViewState": "AQIAAAsAAABAZmZmZmYcwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:30:33.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ConfirmEmailCommand.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\ConfirmEmailCommand.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\Commands\\ConfirmEmailCommand.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\Commands\\ConfirmEmailCommand.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\Commands\\ConfirmEmailCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:29:25.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterUserCommandHandler.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\RegisterUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\CommandHandler\\RegisterUserCommandHandler.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\RegisterUserCommandHandler.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\CommandHandler\\RegisterUserCommandHandler.cs",
+              "ViewState": "AQIAAAkAAACAlpmZmZkVwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:19:08.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginUserCommandHandler.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\LoginUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.Application\\CommandHandler\\LoginUserCommandHandler.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.Application\\CommandHandler\\LoginUserCommandHandler.cs",
+              "RelativeToolTip": "DynamicAuthSystem.Application\\CommandHandler\\LoginUserCommandHandler.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:10:10.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AssemblyUtilities.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Extensions\\AssemblyUtilities.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.API\\Extensions\\AssemblyUtilities.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Extensions\\AssemblyUtilities.cs",
+              "RelativeToolTip": "DynamicAuthSystem.API\\Extensions\\AssemblyUtilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:33:29.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.API\\Program.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Program.cs",
+              "RelativeToolTip": "DynamicAuthSystem.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:29:42.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.API\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "DynamicAuthSystem.API\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvxwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:27:21.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MediatRRegistrationExtensions.cs",
+              "DocumentMoniker": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Extensions\\MediatRRegistrationExtensions.cs",
+              "RelativeDocumentMoniker": "DynamicAuthSystem.API\\Extensions\\MediatRRegistrationExtensions.cs",
+              "ToolTip": "E:\\Projects\\DynamicAuthSystem\\DynamicAuthSystem.API\\Extensions\\MediatRRegistrationExtensions.cs",
+              "RelativeToolTip": "DynamicAuthSystem.API\\Extensions\\MediatRRegistrationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T14:26:49.482Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

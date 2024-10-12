@@ -1,0 +1,15 @@
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\bin\Debug\net8.0\DynamicAuthSystem.Application.deps.json
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\bin\Debug\net8.0\DynamicAuthSystem.Application.dll
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\bin\Debug\net8.0\DynamicAuthSystem.Application.pdb
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\bin\Debug\net8.0\DynamicAuthSystem.Domain.dll
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\bin\Debug\net8.0\DynamicAuthSystem.Domain.pdb
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\obj\Debug\net8.0\DynamicAuthSystem.Application.csproj.AssemblyReference.cache
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\obj\Debug\net8.0\DynamicAuthSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\obj\Debug\net8.0\DynamicAuthSystem.Application.AssemblyInfoInputs.cache
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\obj\Debug\net8.0\DynamicAuthSystem.Application.AssemblyInfo.cs
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\obj\Debug\net8.0\DynamicAuthSystem.Application.csproj.CoreCompileInputs.cache
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\obj\Debug\net8.0\DynamicA.E4030456.Up2Date
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\obj\Debug\net8.0\DynamicAuthSystem.Application.dll
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\obj\Debug\net8.0\refint\DynamicAuthSystem.Application.dll
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\obj\Debug\net8.0\DynamicAuthSystem.Application.pdb
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Application\obj\Debug\net8.0\ref\DynamicAuthSystem.Application.dll

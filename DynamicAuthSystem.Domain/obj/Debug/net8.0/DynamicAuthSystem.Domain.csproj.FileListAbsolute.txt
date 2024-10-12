@@ -1,0 +1,14 @@
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\bin\Debug\net8.0\DynamicAuthSystem.Domain.deps.json
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\bin\Debug\net8.0\DynamicAuthSystem.Domain.runtimeconfig.json
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\bin\Debug\net8.0\DynamicAuthSystem.Domain.dll
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\bin\Debug\net8.0\DynamicAuthSystem.Domain.pdb
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\obj\Debug\net8.0\DynamicAuthSystem.Domain.csproj.AssemblyReference.cache
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\obj\Debug\net8.0\DynamicAuthSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\obj\Debug\net8.0\DynamicAuthSystem.Domain.AssemblyInfoInputs.cache
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\obj\Debug\net8.0\DynamicAuthSystem.Domain.AssemblyInfo.cs
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\obj\Debug\net8.0\DynamicAuthSystem.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\obj\Debug\net8.0\DynamicAuthSystem.Domain.dll
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\obj\Debug\net8.0\refint\DynamicAuthSystem.Domain.dll
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\obj\Debug\net8.0\DynamicAuthSystem.Domain.pdb
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\obj\Debug\net8.0\DynamicAuthSystem.Domain.genruntimeconfig.cache
+E:\Projects\DynamicAuthSystem\DynamicAuthSystem.Domain\obj\Debug\net8.0\ref\DynamicAuthSystem.Domain.dll
